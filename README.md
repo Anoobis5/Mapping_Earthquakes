@@ -1,4 +1,6 @@
 # Mapping_Earthquakes
+![EarthquakePageBanner](https://user-images.githubusercontent.com/84881187/132139996-d8d765d3-19a3-40f6-9cea-5cc275fa150a.jpg)
+
 
 ## Project Overview
 
